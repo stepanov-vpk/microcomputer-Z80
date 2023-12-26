@@ -23,7 +23,7 @@ The microcomputer being developed has the following technical characteristics:
 | Output device | LCD display, 16 x 2 |
 
 Technical documentation for the components used:
-- [Z84C0006PEC](https://pdf1.alldatasheetru.com/datasheet-pdf/view/78374/ZILOG/Z84C0006PEC.html) - Z84C0020 Datasheet (PDF) - Zilog, Inc.
+- [Z84C0006PEC](https://pdf1.alldatasheetru.com/datasheet-pdf/view/78374/ZILOG/Z84C0006PEC.html) - Z84C0006PEC Datasheet (PDF) - Zilog, Inc.
 - [KR580GF24](https://eandc.ru/pdf/mikroskhema/kr580gf24.pdf) - KR580GF24. Specifications (PDF)
 - [AT28C64](https://pdf1.alldatasheetru.com/datasheet-pdf/view/157137/ATMEL/AT28C64.html) - AT28C64 Datasheet (PDF) - ATMEL Corporation
 - [HM62256](https://pdf1.alldatasheet.com/datasheet-pdf/view/77314/HITACHI/HM62256.html) - HM62256 Datasheet (PDF) - Hitachi Semiconductor
