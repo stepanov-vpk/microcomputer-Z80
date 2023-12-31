@@ -25,6 +25,9 @@
 | Параллельный программируемый интерфейс | три 8-разрядных канала ввода-вывода |
 | Устройство вывода | LCD-дисплей, 16 х 2 |
 
+Список используемой документации:
+- [Единая система конструкторской документации. ГОСТ 2.702 2011](https://meganorm.ru/Data2/1/4293800/4293800211.pdf)
+
 Техническая документация на используемые компоненты:
 - [Z84C0006PEC](https://pdf1.alldatasheetru.com/datasheet-pdf/view/78374/ZILOG/Z84C0006PEC.html) - Z84C0006PEC Datasheet (PDF) - Zilog, Inc.
 - [AT28C64](https://pdf1.alldatasheetru.com/datasheet-pdf/view/157137/ATMEL/AT28C64.html) - AT28C64 Datasheet (PDF) - ATMEL Corporation
