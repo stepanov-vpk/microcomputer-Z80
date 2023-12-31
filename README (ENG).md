@@ -26,6 +26,9 @@ The microcomputer being developed has the following technical characteristics:
 | Parallel Programmable Interface | three 8-bit I/O channels |
 | Output device | LCD display, 16 x 2 |
 
+List of documentation used:
+- [Unified system of design documentation. GOST 2.702 2011](https://meganorm.ru/Data2/1/4293800/4293800211.pdf)
+
 Technical documentation for the components used:
 - [Z84C0006PEC](https://pdf1.alldatasheetru.com/datasheet-pdf/view/78374/ZILOG/Z84C0006PEC.html) - Z84C0006PEC Datasheet (PDF) - Zilog, Inc.
 - [AT28C64](https://pdf1.alldatasheetru.com/datasheet-pdf/view/157137/ATMEL/AT28C64.html) - AT28C64 Datasheet (PDF) - ATMEL Corporation
