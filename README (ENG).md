@@ -1,6 +1,6 @@
 # Microcomputer based on Zilog Z80 microprocessor
 
-Copyright belongs to Stepanov A.A., 2023.
+Copyright belongs to Stepanov A.A., 2024.
 
 This code and circuit are licensed [MIT](https://en.wikipedia.org/wiki/MIT_License).
 
@@ -39,4 +39,4 @@ Technical documentation for the components used:
 - [KR580VV55A](https://eandc.ru/pdf/mikroskhema/kr580vv55a.pdf) - KR580VV55A. Specifications (PDF)
 - [LCD1602](https://iarduino.ru/lib/fb78d40ee946c72399e67b71a9cb2e46.pdf) - LCD1602. Datasheet (PDF) - WaveShare
 
-(As of 2023, the project is under development)
+(As of 2024, the project is under development)
