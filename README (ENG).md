@@ -4,6 +4,8 @@ Copyright belongs to Stepanov A.A., 2024.
 
 This code and circuit are licensed [MIT](https://en.wikipedia.org/wiki/MIT_License).
 
+![Microprocessor Zilog Z80](https://github.com/stepanov-vpk/microcomputer-Z80/blob/main/Z80_CPU.png)
+
 ## About the project
 
 The development of a microcomputer based on the Zilog Z80 microprocessor is a fascinating and interesting project that allows you to immerse yourself in the world of modern electronics and programming. The Z80 microprocessor, released in 1976, is considered one of the most influential and widely used processors of its time.
